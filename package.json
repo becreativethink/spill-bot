@@ -1,0 +1,22 @@
+{
+  "name": "spill-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.32.1",
+  "dependencies": {
+    "@huggingface/inference": "^4.13.15",
+    "axios": "^1.14.0",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.3.1",
+    "firebase-admin": "^13.7.0",
+    "node-fetch": "^3.3.2",
+    "telegraf": "^4.16.3"
+  }
+}
